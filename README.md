@@ -1,9 +1,20 @@
-# React TypeScript Starter Pack
+# React Todo App with API
 
-To use this template click `Use this template`
+## Project Overview
+This project is a fully functional Todo List application integrated with an API. It allows users to create new todos, mark them as completed, and delete them. The application leverages an external API to manage and persist todo data.
 
-### Available Scripts
+## Features
+- **Create Todos:** Easily add new tasks.
+- **Mark as Completed:** Flag tasks as completed.
+- **Delete Todos:** Remove tasks from the list.
+- **API Integration:** All data operations are handled via API calls.
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+## Technologies Used
+- **HTML**
+- **CSS**
+- **TypeScript**
+- **React**
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Code Links
+- **Source Code:** [GitHub Repository (develop branch)](https://github.com/Shmyhelskiy/todo-with-app)
+- **Live Site:** [React Todo App with API](https://shmyhelskiy.github.io/todo-with-app/)
